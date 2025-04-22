@@ -1,7 +1,6 @@
 ## 🚀 Key Innovations
 - **RAFT-Inspired Training**: Implements distractor document handling from [Lewis et al. 2020][2]  
-- **Multi-Stage Adaptation**: Combines transfer learning (LoRA/PEFT) with dynamic RAG  
-- **Security-First Design**: AES-256 encryption for proprietary data handling  
+- **Multi-Stage Adaptation**: Combines transfer learning (LoRA/PEFT) with dynamic RAG   
 
 ## 🧩 Architecture
 ![image](https://github.com/user-attachments/assets/a669795d-d8d1-422c-a471-08f35cab5401)
